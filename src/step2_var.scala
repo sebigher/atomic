@@ -1,7 +1,6 @@
 //**//“Like a value, a variable holds a particular type of information.
 // But with a variable, you are allowed to change the data that is stored”
 
-
 object step2_var extends App{
   var koko = "My name is Koko"
   println(koko)
