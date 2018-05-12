@@ -2,7 +2,7 @@
 // But with a variable, you are allowed to change the data that is stored”
 
 
-object step2 extends App{
+object step2_var extends App{
   var koko = "My name is Koko"
   println(koko)
   koko = "My name is Koko Bow"
